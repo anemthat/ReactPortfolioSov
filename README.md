@@ -4,6 +4,7 @@ A Portfolio website project
 2. It should have a home page that tells us a bit about yourself and why you want to be a developer at SovTech
   
   # The Requiments
+  
 
   1. it should be deployed using a simple static site hosting service, such as vercel, netlify
   2. Code should be pushed to a public git hub repository with an updated Readme. Readme should contain a guide on how to bootstrap the app and link to the deployed version
