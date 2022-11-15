@@ -11,6 +11,15 @@ A Portfolio website project
 
   This project was bootstrapped with [Create React App](https://github.com/anemthat/Profile_Portfolio).
 
+  ## clone project
+
+  Clone the project using the git url
+
+  after cloning cd to the files in the terminal
+  then run npm install to install the modules so you can be ables to start it
+
+  (modules were added on gitignore because of the space issue on git hub)
+
 
   ### Project Build
 
