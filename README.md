@@ -28,7 +28,7 @@ A Portfolio website project
 
  The project was created using command npx start create-react-app
  which started  the project and installed the modules and packages
- I also installed react icons and Node js
+ I also installed react icons and Node js.
 
 
  ## run the project
